@@ -1,6 +1,6 @@
-# Hi 👋, I'm Felipe Santos
+# Olá 👋, Sou Felipe Santos
 
-🚀 **Starting Software Engineer**  
+🚀**Meu nome é Felipe Santos e estou iniciando minha carreira como Desenvolvedor de Software. Tenho interesse em desenvolver aplicações web modernas, escaláveis e de alta performance, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.**
 🇧🇷 Brazil
 
 ---
