@@ -27,6 +27,15 @@
 ### DevOps & Tools
 
 ---
+## 📈 **Objetivos**
+- Evoluir como Desenvolvedor Full Stack.
+- Contribuir para projetos de código aberto.
+- Construir soluções que resolvam problemas reais.
+- Compartilhar conhecimento e aprender continuamente.
+
+## 📫 **Contato**
+- LinkedIn: www.linkedin.com/in/felipe-santos-590980413
+- GitHub: github.com/seu-usuario
 
 ## 📊 GitHub Stats
 
